@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectScheduler", "ProjectScheduler\ProjectScheduler.csproj", "{A512793A-3827-4DAA-9AA7-2931DE97B2C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{7731502D-CC62-4DF5-A305-A0DCC0039D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{7761B71C-FA8E-42CC-8942-D8E88A279F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A512793A-3827-4DAA-9AA7-2931DE97B2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A512793A-3827-4DAA-9AA7-2931DE97B2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A512793A-3827-4DAA-9AA7-2931DE97B2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A512793A-3827-4DAA-9AA7-2931DE97B2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7731502D-CC62-4DF5-A305-A0DCC0039D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7731502D-CC62-4DF5-A305-A0DCC0039D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7731502D-CC62-4DF5-A305-A0DCC0039D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7731502D-CC62-4DF5-A305-A0DCC0039D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7761B71C-FA8E-42CC-8942-D8E88A279F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7761B71C-FA8E-42CC-8942-D8E88A279F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7761B71C-FA8E-42CC-8942-D8E88A279F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7761B71C-FA8E-42CC-8942-D8E88A279F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AB2FA18-F940-479F-BD4D-E22137FD82C4}
+	EndGlobalSection
+EndGlobal
