@@ -2,9 +2,9 @@
 using DAL.Models;
 
 namespace BL.Utils;
-internal static class Map
+public static class Map
 {
-	internal static Project ProjectFromDto(this UpdateProjectDto dto, Project project)
+	public static Project ProjectFromDto(this UpdateProjectDto dto, Project project)
 	{
 		project.Priority = dto.Priority;
 		project.Name = dto.Name;

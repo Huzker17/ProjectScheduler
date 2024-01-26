@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectScheduler", "ProjectScheduler\ProjectScheduler.csproj", "{A512793A-3827-4DAA-9AA7-2931DE97B2C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectScheduler", "ProjectScheduler\ProjectScheduler.csproj", "{A512793A-3827-4DAA-9AA7-2931DE97B2C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{7731502D-CC62-4DF5-A305-A0DCC0039D0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{7731502D-CC62-4DF5-A305-A0DCC0039D0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{7761B71C-FA8E-42CC-8942-D8E88A279F1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BL", "BL\BL.csproj", "{7761B71C-FA8E-42CC-8942-D8E88A279F1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
